@@ -8,6 +8,12 @@ Solutions available:
   </li>
   <li>
     Day 4
+  </li>
+  <li>
+    Day 5
+  </li>  
+   <li>
+    Day 8
   </li>  
   </ul>
 
